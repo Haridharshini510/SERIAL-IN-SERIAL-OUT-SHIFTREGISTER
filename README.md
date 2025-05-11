@@ -36,7 +36,12 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR SISO Shift Register**
+![Screenshot (474)](https://github.com/user-attachments/assets/9390662c-4b7d-4ab7-abd1-eda969dbe9ed)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+![image](https://github.com/user-attachments/assets/5d6576a4-5603-439e-851f-d0884b848bcf)
 
 **RESULTS**
+
+SISO Shift Register using verilog and validating their functionality using their functional tables are verified.
+
